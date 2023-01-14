@@ -1,5 +1,5 @@
 {
-  "name": "rd200v2",
+  "name": "rd200v2b",
   "domains": ["light"],
   "iot_class": "local push",
   "render_readme": true,
